@@ -1,4 +1,4 @@
-package com.haobin.netty;
+package com.haobin.netty.buffer;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.ByteBufAllocator;
